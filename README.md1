@@ -1,0 +1,5 @@
+Dataset Source:
+https://www.kaggle.com/
+
+Due to large file size, the dataset files are not included in this repository.
+Download Fake.csv and True.csv and place them inside the dataset folder before running the project.
